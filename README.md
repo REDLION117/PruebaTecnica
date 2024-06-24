@@ -31,7 +31,7 @@
 ### Abrir App
 1. Abra el projecto con Netbeans 8.0.1 ó 8.0.2 
 2. Verifique que las librerias estén agregadas MySQL JDBC Driver (mi version: MySQL JDBC DRIVER-mysql-connector-java-5.1.23-bin.jar) y JSTL 1.2.2 (o la que aparezca)
-3. Verifique que tiene GlassFish Server 4.1 (se incluye un.zip con glassfish 4.1.1 en la carpeta raiz del proyecto)
+3. Verifique que tiene GlassFish Server 4.1
 5. Verifique que glassfish fue asignado al proyecto en el apartado libraries
 6. Presione Run project
 ### Usar App
